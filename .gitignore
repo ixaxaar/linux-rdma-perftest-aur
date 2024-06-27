@@ -1,0 +1,4 @@
+perftest/
+pkg/
+src/
+*.zst
