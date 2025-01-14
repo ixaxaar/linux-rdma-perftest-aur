@@ -1,6 +1,6 @@
 pkgbase = perftest
 	pkgdesc = OpenFabrics Alliance InfiniBand verbs performance testing and benchmarking tools
-	pkgver = 24.04.0_0.41
+	pkgver = 24.10.0.0.66
 	pkgrel = 1
 	url = https://github.com/linux-rdma/perftest
 	arch = x86_64
@@ -12,7 +12,7 @@ pkgbase = perftest
 	makedepends = libtool
 	depends = bash
 	depends = rdma-core
-	source = git+https://github.com/linux-rdma/perftest.git#tag=24.04.0-0.41
+	source = git+https://github.com/linux-rdma/perftest.git
 	sha256sums = SKIP
 
 pkgname = perftest
